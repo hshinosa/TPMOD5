@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.exe
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.deps.json
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.runtimeconfig.json
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.dll
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\bin\Debug\net8.0\tpmodul5_1302223124.pdb
+=======
+>>>>>>> generic-class
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.AssemblyInfoInputs.cache
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.AssemblyInfo.cs
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.csproj.CoreCompileInputs.cache
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.sourcelink.json
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.dll
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\refint\tpmodul5_1302223124.dll
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.pdb
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\tpmodul5_1302223124.genruntimeconfig.cache
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul5_1302223124\tpmodul5_1302223124\obj\Debug\net8.0\ref\tpmodul5_1302223124.dll
